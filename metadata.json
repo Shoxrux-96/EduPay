@@ -1,0 +1,6 @@
+{
+  "name": "Ecomdev EduPay - O'quvchilar va To'lovlar Boshqaruvi",
+  "description": "Ecomdev test topshirig'i: O'quvchilar hisobi, to'lovlar, oylik qarzdorlar monitoringi, real-time WebSocket xabarnomalari va REST API platformasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,3 @@
+"""
+Ecomdev Django Project Package
+"""
